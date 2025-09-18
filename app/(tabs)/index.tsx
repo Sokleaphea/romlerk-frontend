@@ -7,6 +7,8 @@ export default function App() {
      
         Welcome to Nativewind!
       </Text>
+
+      
     // </View>
   );
 }
