@@ -1,6 +1,7 @@
-# Welcome to your Expo app 👋
+# Welcome to Romlerk 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+The purpose of this project is to create a collaborative platform where students from all across the major come to share and learn together.
 
 ## Get started
 
