@@ -6,6 +6,8 @@ export default function App() {
       <Text style={{color: "white"}}>
      
         Welcome to Nativewind!
+
+        
       </Text>
 
       
